@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/circle-strategy-game-app/static/css/main.d77f333d.css",
-    "main.js": "/circle-strategy-game-app/static/js/main.247f14e2.js",
+    "main.css": "/circle-strategy-game-app/static/css/main.79f8a542.css",
+    "main.js": "/circle-strategy-game-app/static/js/main.bb10384c.js",
     "static/js/453.d0ffd024.chunk.js": "/circle-strategy-game-app/static/js/453.d0ffd024.chunk.js",
     "index.html": "/circle-strategy-game-app/index.html",
-    "main.d77f333d.css.map": "/circle-strategy-game-app/static/css/main.d77f333d.css.map",
-    "main.247f14e2.js.map": "/circle-strategy-game-app/static/js/main.247f14e2.js.map",
+    "main.79f8a542.css.map": "/circle-strategy-game-app/static/css/main.79f8a542.css.map",
+    "main.bb10384c.js.map": "/circle-strategy-game-app/static/js/main.bb10384c.js.map",
     "453.d0ffd024.chunk.js.map": "/circle-strategy-game-app/static/js/453.d0ffd024.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d77f333d.css",
-    "static/js/main.247f14e2.js"
+    "static/css/main.79f8a542.css",
+    "static/js/main.bb10384c.js"
   ]
 }
